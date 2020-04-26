@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-theme-document-example",
+  "author": "Code Bushi",
+  "repository": "https://github.com/codebushi/gatsby-theme-document-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.15.9",
+    "gatsby-background-image": "^0.10.2",
+    "gatsby-plugin-sharp": "^2.5.1",
+    "gatsby-theme-document": "1.0.8",
+    "gatsby-transformer-sharp": "^2.4.1",
+    "gh-pages": "^2.2.0",
+    "intersection-observer": "^0.7.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
